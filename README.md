@@ -6,3 +6,4 @@ If you want to create new app from scratch then do:
 - `cd my-app`
 
 To run a server use `npm start`.
+<br>
